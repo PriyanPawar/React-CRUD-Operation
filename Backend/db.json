@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "priyan",
+      "salary": "50000",
+      "company": "google",
+      "id": 1
+    },
+    {
+      "name": "Priyan Pawar",
+      "salary": "15457",
+      "company": "googlemicro",
+      "id": 2
+    },
+    {
+      "name": "Aaryan ",
+      "salary": "250230",
+      "company": "Founder of ADCustoms",
+      "id": 3
+    }
+  ]
+}
